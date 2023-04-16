@@ -6,7 +6,7 @@ Uses [Discord JS 14 Template](https://github.com/TSLARoadster/TypeScript-Discord
 #
 
 # Setup
-- [In /src](https://github.com/mckay/keepa-discord/tree/main/src) Raname``example.env`` to ``.env``. 
+- In [/src](https://github.com/mckay/keepa-discord/tree/main/src) Raname``example.env`` to ``.env``. 
 - All fields in ``.env`` are required. You can find your [Keepa API key](https://keepa.com/#!api) and [create a Discord application](https://discordapp.com/developers)
 - Please ensure you understand Keepa's token-based credential system. 
 - Run ``npm install`` in the project directory. 
@@ -19,4 +19,4 @@ Uses [Discord JS 14 Template](https://github.com/TSLARoadster/TypeScript-Discord
 
 - ``/sellerinfo`` View a Storefront's reviews, business information, and selling performance. 
 
-- ``/tokens`` Display Keepa API's token usage & refill rate for the bot. 
+- ``/tokens`` Display Keepa's API token usage & refill rate for the bot. 
