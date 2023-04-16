@@ -11,3 +11,12 @@ Uses [Discord JS 14 Template](https://github.com/TSLARoadster/TypeScript-Discord
 - Please ensure you understand Keepa's token-based credential system. 
 - Run ``npm install`` in the project directory. 
 - To launch the service, simply run ``ts-node-esm --files index.ts`` in the ``/src`` directory.
+
+# Discord Commands
+- ``/keepa`` General product details and performance insights for a given ASIN. Defaults to Amazon US. 
+
+- ``/keepachart`` Keepa chart for a given ASIN based on a duration chosen in the command. 
+
+- ``/sellerinfo`` View a Storefront's reviews, business information, and selling performance. 
+
+- ``/tokens`` Display Keepa API's token usage & refill rate for the bot. 
